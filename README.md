@@ -24,14 +24,7 @@ Desarrollar un prototipo funcional e interactivo que represente las principales 
 
 El repositorio contiene:
 
-- Documentación general del proyecto.
-- Requerimientos funcionales y no funcionales.
-- Documentación de la metodología ágil Scrum.
-- Historias de usuario y planificación de Sprints.
-- Diagramas UML y modelo entidad-relación.
-- Diseño de interfaces y prototipo en Figma.
-- Instrumento y resultados del proceso de investigación.
-- Casos de prueba y resultados
+Este repositorio contiene el documento maestro del proyecto, en el cual se encuentran la documentación, metodología Scrum, requerimientos, diseños, diagramas, resultados de pruebas y evidencias del desarrollo.
 
 ## Acceso al prototipo
 
