@@ -1,45 +1,44 @@
-# Alerta-M-dica-
-Alerta Médica es una propuesta tecnológica orientada a facilitar la gestión y el seguimiento de medicamentos en adultos mayores, mediante un prototipo interactivo que representa funcionalidades para el registro de medicamentos, programación de horarios, recordatorios y consulta de información relacionada con los tratamientos.
+# ALERTA MÉDICA
 
-2. Objetivo general
+## Descripción del proyecto
 
-Desarrollar un prototipo interactivo para la gestión de medicamentos de adultos mayores, mediante interfaces intuitivas que faciliten el registro, la organización y el seguimiento de sus tratamientos.
+Alerta Médica es un proyecto orientado al diseño de un prototipo interactivo de una aplicación móvil para apoyar la organización y el seguimiento de tratamientos farmacológicos en adultos mayores del municipio de El Cocuy, Boyacá.
 
+La propuesta busca facilitar la consulta de medicamentos, la organización de horarios, la configuración de recordatorios y el seguimiento de los tratamientos, incorporando opciones de accesibilidad y apoyo familiar.
 
-3. Metodología de desarrollo
+## Objetivo
 
-Para el desarrollo del proyecto se utiliza la metodología ágil Scrum, mediante la organización de requerimientos, historias de usuario, Product Backlog y planificación de Sprints.
+Desarrollar un prototipo funcional e interactivo que represente las principales funcionalidades de una aplicación móvil para apoyar la gestión de medicamentos y el seguimiento de tratamientos farmacológicos en adultos mayores.
 
+## Integrantes
 
-4. Herramientas utilizadas
-   
-Figma: diseño de interfaces y desarrollo del prototipo interactivo.
+- Lizeth Rocío Sandoval Carrero
 
-GitHub: almacenamiento, organización y documentación de los artefactos del proyecto.
+## Herramientas utilizadas
 
-6. Funcionalidades del prototipo
+- **Figma:** diseño de interfaces y construcción del prototipo interactivo.
+- **GitHub:** almacenamiento y organización de la documentación y evidencias.
+- **Microsoft Word:** elaboración de la documentación del proyecto.
 
-Inicio.
-Registro de medicamentos.
-Horarios.
-Recordatorios.
-Informes.
-Ayuda.
-Configuración.
-Encuesta.
-Recomendaciones.
-Soporte.
+## Contenido del repositorio
 
-8. Prototipo interactivo
+El repositorio contiene:
 
-El diseño y la navegación del prototipo se encuentran disponibles en el siguiente enlace:
+- Documentación general del proyecto.
+- Requerimientos funcionales y no funcionales.
+- Documentación de la metodología ágil Scrum.
+- Historias de usuario y planificación de Sprints.
+- Diagramas UML y modelo entidad-relación.
+- Diseño de interfaces y prototipo en Figma.
+- Instrumento y resultados del proceso de investigación.
+- Casos de prueba y resultados
 
-https://www.figma.com/design/qfyIgmQynYBmd96grNGFLo/Dise%C3%B1o-Preliminar_Alerta-M%C3%A9dica
+## Acceso al prototipo
 
-7. Organización del repositorio
-   
-El repositorio contiene la documentación del proyecto, metodología Scrum, requerimientos, historias de usuario, diagramas UML, wireframes, mockups y evidencias del desarrollo del prototipo.
+**Enlace de Figma:** https://www.figma.com/design/qfyIgmQynYBmd96grNGFLo/Dise%C3%B1o-Preliminar_Alerta-M%C3%A9dica?node-id=0-1&t=r9K7AluAf0uscZ50-1 
 
-9. Alcance
-    
-Este repositorio documenta los artefactos de ingeniería y el prototipo interactivo desarrollado en Figma. No representa una aplicación de software desplegada ni contiene necesariamente código fuente
+## Alcance
+
+El resultado corresponde a un prototipo interactivo elaborado en Figma. Permite visualizar las interfaces y recorrer las funcionalidades representadas mediante interacciones de navegación.
+
+No corresponde a una aplicación móvil implementada mediante código ni cuenta con almacenamiento real de información o envío automático de notificaciones.
