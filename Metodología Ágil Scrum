@@ -1,1 +1,114 @@
+METODOLOGÍA DE DESARROLLO ÁGIL SCRUM
+Proyecto: Alerta Médica – El Cocuy
+1. Introducción
 
+Para el desarrollo del proyecto Alerta Médica se seleccionó la metodología ágil Scrum, con el propósito de organizar y gestionar las actividades relacionadas con el análisis de requerimientos, diseño de interfaces, construcción del prototipo interactivo y revisión de las funcionalidades propuestas para la gestión de medicamentos de los adultos mayores del municipio de El Cocuy.
+
+La metodología Scrum permitió organizar el trabajo mediante etapas iterativas e incrementales, facilitando la planificación de las actividades, el seguimiento de los avances y la identificación de ajustes necesarios durante el desarrollo del prototipo.
+
+Debido a que el proyecto fue desarrollado individualmente, se realizó una adaptación de Scrum en la cual el estudiante asumió las responsabilidades correspondientes a la gestión del producto, planificación, desarrollo y seguimiento de las actividades.
+
+2. Justificación de la metodología seleccionada
+
+Se seleccionó Scrum porque permite desarrollar soluciones tecnológicas mediante ciclos de trabajo organizados, establecer prioridades y realizar revisiones periódicas de los avances.
+
+Esta metodología resulta apropiada para el proyecto Alerta Médica, debido a que el desarrollo del prototipo requiere identificar las necesidades de los usuarios, definir las funcionalidades principales, diseñar las interfaces y realizar ajustes progresivos de acuerdo con los objetivos establecidos.
+
+La aplicación de Scrum facilitó la organización del proceso de desarrollo, permitiendo dividir el trabajo en actividades específicas y realizar un seguimiento de los resultados obtenidos en cada etapa.
+
+3. Adaptación de Scrum al proyecto
+
+Teniendo en cuenta que Alerta Médica fue desarrollado individualmente, se realizó una adaptación de los roles y actividades de Scrum a las características del proyecto.
+
+Las responsabilidades fueron distribuidas de la siguiente manera:
+
+Rol de Scrum	Aplicación en el proyecto
+Product Owner	El estudiante asumió la identificación y priorización de las necesidades y funcionalidades del producto.
+Scrum Master	El estudiante organizó las actividades, gestionó el tiempo y realizó seguimiento al cumplimiento de los objetivos.
+Developers	El estudiante desarrolló las actividades de análisis, diseño de interfaces, construcción del prototipo interactivo y documentación.
+
+Esta adaptación permitió aplicar los principios de organización, planificación, revisión y mejora continua de Scrum, teniendo en cuenta las condiciones de desarrollo individual del proyecto.
+
+4. Fases de aplicación de Scrum
+4.1. Identificación y definición del producto
+
+En esta etapa se identificó la necesidad de desarrollar una propuesta tecnológica que contribuyera a mejorar la gestión de medicamentos de los adultos mayores del municipio de El Cocuy.
+
+Se estableció como objetivo desarrollar un prototipo interactivo que permitiera representar funcionalidades relacionadas con el registro de adultos mayores, administración de medicamentos, consulta de horarios, recordatorios y seguimiento del historial de medicamentos.
+
+4.2. Elaboración del Product Backlog
+
+Se identificaron y organizaron las funcionalidades principales que debía contemplar el prototipo.
+
+Estas funcionalidades se convirtieron en elementos del Product Backlog, considerando su importancia para el cumplimiento del objetivo del proyecto.
+
+Los elementos identificados fueron:
+
+Registro de adultos mayores.
+Inicio de sesión.
+Administración del perfil del usuario.
+Registro de medicamentos.
+Consulta de medicamentos.
+Configuración de horarios y dosis.
+Recordatorios de medicamentos.
+Historial de medicamentos.
+Contacto de familiares o cuidadores.
+4.3. Planificación de Sprint
+
+Se organizaron las actividades del proyecto en ciclos de trabajo o Sprint, estableciendo objetivos relacionados con el análisis, diseño, construcción y revisión del prototipo.
+
+La planificación permitió distribuir las actividades de acuerdo con las necesidades del proyecto y realizar seguimiento a los avances alcanzados.
+
+4.4. Desarrollo del Sprint
+
+Durante esta etapa se ejecutaron las actividades planificadas, utilizando Figma como herramienta principal para el diseño y construcción del prototipo interactivo.
+
+Se trabajó en la elaboración de interfaces, organización de componentes visuales, construcción de formularios y definición de los flujos de navegación.
+
+También se desarrollaron las interacciones necesarias para representar los procesos principales de la solución propuesta.
+
+4.5. Revisión del Sprint
+
+Se realizó la revisión de los avances del prototipo, verificando que las interfaces diseñadas correspondieran con las funcionalidades establecidas.
+
+Esta revisión permitió identificar aspectos susceptibles de mejora relacionados con la navegación, organización de la información, presentación de los elementos visuales y facilidad de uso.
+
+4.6. Retrospectiva y mejora continua
+
+Se contempló la revisión del proceso de trabajo para identificar oportunidades de mejora en la organización de las actividades y en la construcción del prototipo.
+
+A partir de esta revisión se establecieron ajustes orientados a fortalecer la coherencia de las interfaces y la representación de las funcionalidades de Alerta Médica.
+
+5. Herramientas utilizadas
+
+Para apoyar el desarrollo y la organización del proyecto se utilizaron las siguientes herramientas:
+
+Herramienta	Aplicación
+Figma	Diseño de interfaces, construcción del prototipo interactivo y simulación de flujos de navegación.
+GitHub	Organización, almacenamiento y seguimiento de los documentos y evidencias del proyecto.
+Microsoft Word	Elaboración y actualización del documento maestro y documentación técnica.
+Excel	Organización de requerimientos, planificación y seguimiento de actividades.
+6. Resultados de la aplicación de Scrum
+
+La aplicación de la metodología permitió organizar las actividades del proyecto de manera estructurada, identificar las funcionalidades principales y orientar el desarrollo progresivo del prototipo interactivo.
+
+Como resultado se obtuvo una propuesta de prototipo en Figma que contempla los procesos de registro de adultos mayores, autenticación, gestión de medicamentos, consulta de horarios, recordatorios, historial y contacto con familiares o cuidadores.
+
+Asimismo, la organización del proyecto mediante GitHub permite conservar los documentos técnicos, requerimientos, diseños, evidencias y registros relacionados con el proceso de desarrollo.
+
+7. Evidencias de aplicación de la metodología
+
+Como evidencias de la aplicación de Scrum se contemplan los siguientes elementos:
+
+Product Backlog con las funcionalidades identificadas.
+Historias de usuario y criterios de aceptación.
+Planificación de los Sprint.
+Registro de actividades realizadas.
+Evidencias del desarrollo de interfaces en Figma.
+Registro de seguimiento y revisión de avances.
+Documentación de pruebas y mejoras del prototipo.
+8. Conclusión
+
+La metodología Scrum constituyó un marco de organización para el desarrollo del proyecto Alerta Médica, permitiendo estructurar las actividades de análisis, diseño, construcción y revisión del prototipo interactivo.
+
+Su aplicación facilitó la identificación de funcionalidades prioritarias, la distribución del trabajo en ciclos y el seguimiento de los avances, contribuyendo al desarrollo organizado de una propuesta tecnológica orientada a apoyar la gestión de medicamentos de los adultos mayores del municipio de El Cocuy.
