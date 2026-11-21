@@ -1,5 +1,6 @@
 # Alerta-M-dica-
 Alerta Médica es una propuesta tecnológica orientada a facilitar la gestión y el seguimiento de medicamentos en adultos mayores, mediante un prototipo interactivo que representa funcionalidades para el registro de medicamentos, programación de horarios, recordatorios y consulta de información relacionada con los tratamientos.
+
 2. Objetivo general
 Desarrollar un prototipo interactivo para la gestión de medicamentos de adultos mayores, mediante interfaces intuitivas que faciliten el registro, la organización y el seguimiento de sus tratamientos.
 
