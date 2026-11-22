@@ -35,3 +35,7 @@ Este repositorio contiene el documento maestro del proyecto, en el cual se encue
 El resultado corresponde a un prototipo interactivo elaborado en Figma. Permite visualizar las interfaces y recorrer las funcionalidades representadas mediante interacciones de navegación.
 
 No corresponde a una aplicación móvil implementada mediante código ni cuenta con almacenamiento real de información o envío automático de notificaciones.
+
+## Video 
+
+Enlace video: https://youtube.com/watch?v=sDCp-GnYQ6g&si=WkA-3ZBHfx1gdc0N 
